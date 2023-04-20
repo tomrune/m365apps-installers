@@ -6,9 +6,7 @@ Most of the scripts are set to:
 - install proofing tools for norwegian, british english and US english
 
 ## Usage
-- Download the latest ODT and extract it as follows: `officedeploymenttool_*version*.exe /extract:c:\temp\ODT /quiet`
-- Copy desired configuration file and the setup.exe file together in a folder
-- Run `.\setup.exe /configure config.xml`
+- Get the latest ODT and extract it to the [ODT folder](/ODT/README.md)
 
 ## Available configurations
 See [Configurations](Configurations.md)
