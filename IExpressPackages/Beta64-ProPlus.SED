@@ -21,22 +21,22 @@ AdminQuietInstCmd=%AdminQuietInstCmd%
 UserQuietInstCmd=%UserQuietInstCmd%
 SourceFiles=SourceFiles
 [Strings]
-InstallPrompt=Er du sikker på at du vil installere Office?
+InstallPrompt=Er du sikker pï¿½ at du vil installere Office?
 DisplayLicense=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\Beta64-ProPlus.lic
-FinishMessage=Det anbefales å omstarte maskinen etter en Office-installasjon eller avinstallasjon.
+FinishMessage=Det anbefales ï¿½ omstarte maskinen etter en Office-installasjon eller avinstallasjon.
 TargetName=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\Beta64-ProPlus.exe
 FriendlyName=M365 Insider Beta x64
 AppLaunched=installscript.cmd
 PostInstallCmd=<None>
 AdminQuietInstCmd=
 UserQuietInstCmd=
-FILE0="setup.exe"
-FILE1="config.xml"
-FILE2="installscript.cmd"
+FILE0=setup.exe
+FILE1=installscript.cmd
+FILE2=config.xml
 [SourceFiles]
-SourceFiles0=C:\Users\tomrune\GitHub\trb-m365apps-installers\ODT\
-SourceFiles1=C:\Users\tomrune\GitHub\trb-m365apps-installers\ODT-Configurations\Beta64-ProPlus\
-SourceFiles2=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\
+SourceFiles0=
+SourceFiles1=
+SourceFiles2=
 [SourceFiles0]
 %FILE0%=
 [SourceFiles1]

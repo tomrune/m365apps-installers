@@ -34,9 +34,9 @@ FILE0="setup.exe"
 FILE1="installscript.cmd"
 FILE2="config.xml"
 [SourceFiles]
-SourceFiles0=C:\Users\tomrune\GitHub\trb-m365apps-installers\ODT\
-SourceFiles1=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\
-SourceFiles2=C:\Users\tomrune\GitHub\trb-m365apps-installers\ODT-Configurations\SemiAnnualChannel64-ProPlus\
+SourceFiles0=
+SourceFiles1=
+SourceFiles2=
 [SourceFiles0]
 %FILE0%=
 [SourceFiles1]
