@@ -1,0 +1,15 @@
+---------------------------
+IExpress Wizard
+---------------------------
+Command syntax is incorrect!
+
+Options: [/N [/Q] [/M]] <SED filename> [/O:Override SED filename,OverrideSectionName] [/D:directory]
+
+/N: Build package now (SED Filename must be specified)
+/Q: Quiet mode when using /N
+/M: Use minimized windows when using /N
+/O: Specify override SED file and section
+/D: Override directory for exe stub
+---------------------------
+OK   
+---------------------------
