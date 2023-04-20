@@ -1,0 +1,45 @@
+[Version]
+Class=IEXPRESS
+SEDVersion=3
+[Options]
+PackagePurpose=InstallApp
+ShowInstallProgramWindow=1
+HideExtractAnimation=0
+UseLongFileName=1
+InsideCompressed=0
+CAB_FixedSize=0
+CAB_ResvCodeSigning=0
+RebootMode=I
+InstallPrompt=%InstallPrompt%
+DisplayLicense=%DisplayLicense%
+FinishMessage=%FinishMessage%
+TargetName=%TargetName%
+FriendlyName=%FriendlyName%
+AppLaunched=%AppLaunched%
+PostInstallCmd=%PostInstallCmd%
+AdminQuietInstCmd=%AdminQuietInstCmd%
+UserQuietInstCmd=%UserQuietInstCmd%
+SourceFiles=SourceFiles
+[Strings]
+InstallPrompt=Er du sikker p� at du vil installere Office?
+DisplayLicense=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\MonthlyEnterprise64-ProPlus.lic
+FinishMessage=Det anbefales � omstarte maskinen etter en Office-installasjon eller avinstallasjon.
+TargetName=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\MonthlyEnterprise64-ProPlus.exe
+FriendlyName=M365ProPlus Monthly Enterprise x64
+AppLaunched=installscript.cmd
+PostInstallCmd=<None>
+AdminQuietInstCmd=
+UserQuietInstCmd=
+FILE0="setup.exe"
+FILE1="installscript.cmd"
+FILE2="config.xml"
+[SourceFiles]
+SourceFiles0=C:\Users\tomrune\GitHub\trb-m365apps-installers\ODT\
+SourceFiles1=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\
+SourceFiles2=C:\Users\tomrune\GitHub\trb-m365apps-installers\ODT-Configurations\MonthlyEnterprise64-ProPlus\
+[SourceFiles0]
+%FILE0%=
+[SourceFiles1]
+%FILE1%=
+[SourceFiles2]
+%FILE2%=
