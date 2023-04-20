@@ -1,5 +1,7 @@
 
 ODT/setup.exe
 ODT/*xml
-IExpressPackages/
+IExpressPackages/*DDF
+IExpressPackages/*CAB
+IExpressPackages/*exe
 
