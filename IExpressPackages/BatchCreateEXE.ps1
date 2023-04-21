@@ -58,7 +58,7 @@ foreach($sedFile in $SEDFilesToProcess) {
     Write-Progress -Activity "Compiling EXE files $CurrentProgress %" -Status "Compiling $sedName" -Id 2 -ParentId 1 -PercentComplete $CurrentProgress
         
     # Make sure that we compile only one SED at the time to avoid race conditions and to make it easier to track errors
-    Start-Process -Filepath "$env:windir\system32\iexpress.exe" -ArgumentList "/N $sedFile" -Wait
+    Start-Process -Filepath "$env:windir\system32\iexpress.exe" -ArgumentList "/N $sedFile -Encoding ASCII" -Wait
 
     # Update progress indicator
     $EXEprogress++
