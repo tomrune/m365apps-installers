@@ -23,7 +23,7 @@
     </Product>
   </Add>
 
-  <!--  <Updates Enabled="TRUE" Channel="Current" /> -->
+  <Updates Enabled="TRUE" Channel="MonthlyEnterprise" />
 
   <!--  <Display Level="None" AcceptEULA="TRUE" />  -->
 
