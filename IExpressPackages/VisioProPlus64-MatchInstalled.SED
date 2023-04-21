@@ -21,9 +21,9 @@ AdminQuietInstCmd=%AdminQuietInstCmd%
 UserQuietInstCmd=%UserQuietInstCmd%
 SourceFiles=SourceFiles
 [Strings]
-InstallPrompt=Er du sikker pï¿½ at du vil installere Office?
+InstallPrompt=Er du sikker på at du vil installere Office?
 DisplayLicense=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\VisioProPlus64-MatchInstalled.lic
-FinishMessage=Det anbefales ï¿½ omstarte maskinen etter en Office-installasjon eller avinstallasjon.
+FinishMessage=Det anbefales å omstarte maskinen etter en Office-installasjon eller avinstallasjon.
 TargetName=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\VisioProPlus64-MatchInstalled.exe
 FriendlyName=Visio Pro Online P1 / P2 x64
 AppLaunched=installscript.cmd

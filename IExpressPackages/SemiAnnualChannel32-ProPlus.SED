@@ -21,9 +21,9 @@ AdminQuietInstCmd=%AdminQuietInstCmd%
 UserQuietInstCmd=%UserQuietInstCmd%
 SourceFiles=SourceFiles
 [Strings]
-InstallPrompt=Er du sikker pï¿½ at du vil installere Office?
+InstallPrompt=Er du sikker på at du vil installere Office?
 DisplayLicense=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\SemiAnnualChannel32-ProPlus.lic
-FinishMessage=Det anbefales ï¿½ omstarte maskinen etter en Office-installasjon eller avinstallasjon.
+FinishMessage=Det anbefales å omstarte maskinen etter en Office-installasjon eller avinstallasjon.
 TargetName=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\SemiAnnualChannel32-ProPlus.exe
 FriendlyName=M365ProPlus Semi Annual x86
 AppLaunched=installscript.cmd
