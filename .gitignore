@@ -5,3 +5,4 @@ IExpressPackages/*DDF
 IExpressPackages/*CAB
 IExpressPackages/*exe
 
+.vscode/settings.json
