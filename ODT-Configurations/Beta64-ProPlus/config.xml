@@ -13,13 +13,6 @@
   <Add OfficeClientEdition="64" Channel="BetaChannel">
     <Product ID="O365ProPlusRetail">
       <Language ID="MatchOS" />  
-      <ExcludeApp ID="Teams" />    
-    </Product>
-    <Product ID="ProofingTools">
-      <Language ID="nb-no" />
-      <Language ID="nn-no" />
-      <Language ID="en-gb" />
-      <Language ID="en-us" />
     </Product>
   </Add>
 
