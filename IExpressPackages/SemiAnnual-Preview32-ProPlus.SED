@@ -21,9 +21,9 @@ AdminQuietInstCmd=%AdminQuietInstCmd%
 UserQuietInstCmd=%UserQuietInstCmd%
 SourceFiles=SourceFiles
 [Strings]
-InstallPrompt=Er du sikker på at du vil installere Office?
+InstallPrompt=Are you sure you want to install Office?
 DisplayLicense=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\SemiAnnual-Preview32-ProPlus.lic
-FinishMessage=Det anbefales å omstarte maskinen etter en Office-installasjon eller avinstallasjon.
+FinishMessage=You may need to reboot your computer after the installation.
 TargetName=C:\Users\tomrune\GitHub\trb-m365apps-installers\IExpressPackages\SemiAnnual-Preview32-ProPlus.exe
 FriendlyName=M365ProPlus Semi Annual PREVIEW x86
 AppLaunched=installscript.cmd
